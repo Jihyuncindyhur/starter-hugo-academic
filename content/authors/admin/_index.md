@@ -10,23 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Candidate in Clinical Psychology
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:
-- name: Seoul National University
+- name: Yale University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include major depressive and anxiety disorders, computational psychiatry, neuroimaging, decision-making and machine learning.
 
 interests:
-- Mood Disorders
-- Emotion
+- Depression 
+- Happiness
+- Decision-Making
 - Computational Psychiatry
 - Neuroimaging
-- Decision-Making
-- Reinforcement Learning
 - Machine Learning
 
 education:
@@ -69,10 +68,10 @@ user_groups:
 - Visitors
 ---
 
-Jihyun Hur is a Master's student in Clinical Psychology at [Computational Clinical Scinece Lab](https://ccs-lab.github.io/) directed by [Dr. Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/). She graduated from [Washington University in St. Louis]("https://olin.wustl.edu/EN-US/Pages/default.aspx), majoring in Accounting with Honors in Management. After receiving the Bachelor's degree, she started to wonder the nature of human decision-making and emotion. 
+Jihyun Hur is a research technician in the [Rutledge Lab](https://rutledgelab.org/) directed by [Dr. Robb Rutledge](https://thehappinessexperiment.org/) at Yale University. In August 2021, she received a Master's degree in Clinical Psychology at [Computational Clinical Scinece Lab](https://ccs-lab.github.io/) directed by [Dr. Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/). After graduating from [Washington University in St. Louis]("https://olin.wustl.edu/EN-US/Pages/default.aspx) with the Bachelor's degree in Accounting (Honors in Management), she started to wonder the essence of mental health, human decision-making processes and emotions. 
 
-Now she is particularly interested in 1)revealing the transdiagnostic phenotypes of depression and anxiety in the `reinforcement learning` domain and 2)understanding the relationship between negative urgency and decision-making. She has been mainly utilizing `neuroimaging (e.g., fMRI, fNIRS)`, `computational modeling` and `machine learning`.
+Jihyun is particularly interested in 1) understanding the latent decision-making processes of depression and anxiety using computational modeling, 2) developing individualized intervention plans to prevent suicidal attempts, and 3) delving into the complex relationship between emotions and decision-making. She has been mainly utilizing `neuroimaging (e.g., fMRI, fNIRS)`, `computational modeling` and `machine learning`.
 
-After graduation, she pursues to be a PhD student in Clinical Psychology at an university based in the United States. 
+She pursues to be a PhD student in Clinical Psychology at an university based in the United States. 
 
 Outside the lab, she is a rock climber, pianist, and (occasionally) k-pop dancer :dancer::smile:
