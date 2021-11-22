@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Experiences"
 subtitle = ""
 
 # Date format for experience
@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Clinical Training"
+  title = "Research Technician"
+  company = "Rutledge lab"
+  company_url = "https://rutledgelab.org/"
+  location = "New Haven, CT"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Counselor (Team Leader)"
   company = "Center for Campus Life and Culture at Seoul National University"
   company_url = ""
   location = "Seoul, Korea"
   date_start = "2021-01-04"
-  date_end = ""
+  date_end = "2021-08-01"
   description = ""
 
 [[experience]]
@@ -32,7 +41,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Seoul, Korea"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """Course: `Advanced data analysis for brain and cognitive sciences: Data collection and statistical analysis for functional MRI`"""
 
 [[experience]]
@@ -41,12 +50,13 @@ date_format = "Jan 2006"
   company_url = "https://ccs-lab.github.io"
   location = "Seoul, Korea"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2021-08-27"
   description = """
   Responsibilities include:
 
-  * Leading two neuroimaging projects using fMRI and fNIRS
-  * Reviewing manuscripts under supervision of the PI (Dr. Woo-Young Ahn)
+  * Led two neuroimaging projects using fMRI and fNIRS
+  * Managed three IRB documents for behavioral and neuroimaging studies
+  * Reviewed manuscripts under supervision of the PI (Dr. Woo-Young Ahn)
   """
 
 [[experience]]
